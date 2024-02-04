@@ -44,7 +44,7 @@ Explore my Tableau projects here. I showcase visually appealing dashboards and v
 
 ## Certificates
 
-This section features certificates and credentials relevant to my data analysis expertise. From online courses to specialized certifications, it demonstrates my commitment to continuous learning and skill development.
+This section features [certificates](https://github.com/rsaldana23/Data-Analysis-Portfolio/tree/main/Certificates) and credentials relevant to my data analysis expertise. From online courses to specialized certifications, it demonstrates my commitment to continuous learning and skill development.
 
 ## Contacts
 
