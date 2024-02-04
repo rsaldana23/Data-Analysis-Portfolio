@@ -24,23 +24,23 @@ I have a robust data analysis process that involves several key steps:
 
 ## Data Analysis in Python
 
-In this section, I showcase my Python projects for data analysis. From EDA to machine learning models, I demonstrate my proficiency in utilizing Python's data science libraries to extract insights from data.
+In this section, I showcase my [Python projects](https://github.com/rsaldana23/Data-Analysis-Portfolio/tree/main/Data%20Analysis%20in%20Python) for data analysis. From EDA to machine learning models, I demonstrate my proficiency in utilizing Python's data science libraries to extract insights from data.
 
 ## Data Analysis in SQL
 
-Here, I delve into SQL-based data analysis projects. I highlight SQL queries for data retrieval, aggregation, and manipulation, showcasing my expertise in handling data directly from databases.
+Here, I delve into [SQL-based data analysis projects](https://github.com/rsaldana23/Data-Analysis-Portfolio/tree/main/Data%20Analysis%20in%20SQL). I highlight SQL queries for data retrieval, aggregation, and manipulation, showcasing my expertise in handling data directly from databases.
 
 ## Data Analysis with R
 
-Explore my R-based data analysis projects in this section. From statistical analysis to data visualization using ggplot2, I showcase how R is a powerful tool for exploring and analyzing data.
+Explore my [R-based data analysis projects](https://github.com/rsaldana23/Data-Analysis-Portfolio/tree/main/Data%20Analysis%20with%20R) in this section. From statistical analysis to data visualization using ggplot2, I showcase how R is a powerful tool for exploring and analyzing data.
 
 ## Power BI Projects
 
-In this section, I present my projects developed using Power BI. These projects demonstrate my ability to create interactive dashboards and reports that provide actionable insights from data.
+In this section, I present my projects developed using [Power BI](https://github.com/rsaldana23/Data-Analysis-Portfolio/tree/main/Power%20BI%20Projects). These projects demonstrate my ability to create interactive dashboards and reports that provide actionable insights from data.
 
 ## Tableau Projects
 
-Explore my Tableau projects here. I showcase visually appealing dashboards and visualizations created using Tableau, highlighting key insights derived from data analysis.
+Explore my [Tableau projects](https://github.com/rsaldana23/Data-Analysis-Portfolio/tree/main/Tableau%20Projects) here. I showcase visually appealing dashboards and visualizations created using Tableau, highlighting key insights derived from data analysis.
 
 ## Certificates
 
